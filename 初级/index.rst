@@ -2,14 +2,18 @@
 index
 =======
 
-+primary
+.. toctree ::
+   :maxdepth: 2
+   
 
- - 1
+ +primary
+
+  - 1
  
- - 标题
+  - 标题
  
- - 段落
+  - 段落
  
- - 块
+  - 块
  
- - 列表
+  - 列表
