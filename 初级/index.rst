@@ -8,12 +8,12 @@ index
 
  +primary
 
-  - 1
+  - 1.rst
  
-  - 标题
+  - 标题.rst
  
-  - 段落
+  - 段落.rst
  
-  - 块
+  - 块.rst
  
-  - 列表
+  - 列表.rst
