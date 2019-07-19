@@ -8,8 +8,6 @@ my_study_rst's 学习笔记
 
 github地址_
 
-.. _github地址: https://github.com/zhaojiedi1992/My_Study_ReStructuredText
-
 .. toctree::
     :caption: 基础语法
     :numbered:
